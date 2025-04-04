@@ -10,3 +10,6 @@ This dashboard delivers a comprehensive summary of on-going Shift Performance ta
 
 Below is the main page of the Report:
 <p align="left"><img src="https://github.com/dmokafor/Shift_Report/blob/main/Screenshots/Shift_Report.png" alt="Main Page"></p>
+
+## Data Model
+<p align="left"><img src="https://github.com/dmokafor/Shift_Report/blob/main/Screenshots/data_model.png" alt="Data Model"></p>
