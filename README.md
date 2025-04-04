@@ -9,7 +9,7 @@ This dashboard delivers a comprehensive summary of on-going Shift Performance ta
 - Optimize service delivery performance
 
 Below is the main page of the Report:
-<p align="left"><img src="https://github.com/dmokafor/Shift_Report/blob/main/Screenshots/Shift_Report.png" alt="Main Page"></p>
+<p align="left"><img src="https://github.com/dmokafor/Shift_Report/blob/main/screenshots/Shift_Report.png" alt="Main Page"></p>
 
 ## Data Model
-<p align="left"><img src="https://github.com/dmokafor/Shift_Report/blob/main/Screenshots/data_model.png" alt="Data Model"></p>
+<p align="left"><img src="https://github.com/dmokafor/Shift_Report/blob/main/screenshots/data_model.png" alt="Data Model"></p>
