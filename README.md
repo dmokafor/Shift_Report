@@ -18,35 +18,28 @@ The dashboard provides a structured view of shift performance, beginning with th
 Following this, **four visual cards** highlight critical operational areas—**vessel, barge, gate, and rail**—displaying container moves and the number of carriers handled.
 
 Beneath these, **mini cards display essential KPIs**, including:  
-- **Safety incidents**  
-- **Port hours saved**  
-- **CMPH (Containers Moved Per Hour)**  
-- **Truck turn time**  
-- **Yard utilization**  
+- **Safety incidents**: Number of safety incidents that occured during the shift.   
+- **Port hours saved**:  The percentage reduction in the total time a vessel spends in port compared to a baseline or expected duration.
+- **Containers Moved Per Hour (CMPH)**: The average CMPH of all cranes that worked on vessels during the shift.
+- **Truck turn time**: Total time a truck spends inside the terminal from entry to exit.
+- **Yard utilization**: The percentage of available yard space that is currently occupied by containers in the terminal. 
 
-The **bar chart** illustrates overall **Shift Performance**, measured from the **last container lift of the previous shift** to the **first container lift of the current shift**.  
+The **bar chart** below the mini cards illustrates overall **Shift Change Performance** which measured the duration between the last container lift of the previous shift to the first container lift of the current shift.  
 
 Next, a **Container Handling Equipment (CHE) Performance table** presents insights by equipment type (MHC, RTG, TT, RS, EH), detailing:  
-- Moves per hour  
-- Availability  
-- Utilization  
+- **Moves per hour**: Averag moves per hour per equipment.
+- **Availability**: measures the percentage of time an equipment is available for operations.
+- **Utilization**: measures the percentage of time an equipment is actually used.
 
 The **Vessel Performance table** provides details on **active and departed vessels during the shift**, tracking key metrics such as:  
-- Total moves  
-- Shift moves  
-- Balance moves  
-- Estimated time of completion (ETC)  
-- Estimated and required time of departure  
-- Estimated port hours saved  
+- Total moves: Total container moves planned on the vessel.
+- Shift moves: Total container moves executed during the shift.
+- Balance moves: Total remaining moves to be executed on the vessel.
+- Estimated time of completion (ETC).
+- Estimated and required time of departure.
+- Estimated port hours saved.
 
-The **Crane Performance table** captures shift-specific crane operations, including:  
-- Total moves  
-- Shift moves  
-- Balance moves  
-- First and last lift  
-- Crane hours  
-- Shift CMPH  
-- ETC  
+The **Crane Performance table** provides details on **working cranes**, tracking key metrics such as: total moves, shift moves, balance moves, first and last lift timestamps, crane hours, Shift CMPH, and ETC for each crane.
 
 Additional KPIs displayed include:  
 - **Truck service time**  
