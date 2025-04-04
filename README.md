@@ -27,7 +27,7 @@ Beneath these, **mini cards display essential KPIs**, including:
 The **bar chart** below the mini cards illustrates overall **Shift Change Performance** which measured the duration between the last container lift of the previous shift to the first container lift of the current shift.  
 
 Next, a **Container Handling Equipment (CHE) Performance table** presents insights by equipment type (MHC, RTG, TT, RS, EH), detailing:  
-- **Moves per hour**: Averag moves per hour per equipment.
+- **Moves per hour**: Average moves per hour per equipment.
 - **Availability**: measures the percentage of time an equipment is available for operations.
 - **Utilization**: measures the percentage of time an equipment is actually used.
 
